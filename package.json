@@ -1,0 +1,21 @@
+{
+    "name": "tailstyles",
+    "displayName": "Tailstyles",
+    "description": "Tailstyles theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tailstyles Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tailstyles Dark-color-theme.json"
+            }
+        ]
+    }
+}
